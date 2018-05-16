@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.da{
+    width: 100%;
+    height: 12.94rem;
+    background-color: #007dff;
+    margin-top: 0.4rem;
+    background-image: url("../img/002.png");
+    background-size: 100%;
+}
+.da .bu{
+    width: 100%;
+    height: 100%;
+    background-color:rgba(3, 3, 3, 0.6);
+    padding-top: 3.4rem;
+    padding-right: 0.53rem;
+    padding-left: 0.53rem;
+    box-sizing: border-box;
+
+}
+.da .bu .b{
+    width: 6.53rem;
+    height: 7.88rem;
+    background-color: #ffffff;
+    display: flex;
+    position: relative;
+}
+.da .bu .b img{
+    display: block;
+    width: 3.28rem;
+    height: 1.15rem;
+    margin-top: 1.3rem;
+    margin-left: 1.5rem;
+}
+.da .bu .b span{
+    display: block;
+    font-size: 0.35rem;
+    margin-top: 3.5rem;
+    margin-left: -3rem;
+    height: 0.8rem;
+    width: 100%;
+}
+.da .bu .b .b2{
+    width: 100%;
+    height: 0.86rem;
+    /*background-color: #83c44e;*/
+    /*margin-left: 0.5rem;*/
+    margin-top: 5.5rem;
+    position: absolute;
+    display: flex;
+
+}
+.da .bu .b .b2 .c1{
+    width: 2.6rem;
+    height: 100%;
+    background-color: #eee;
+    margin-left: 0.4rem;
+    border-radius:10%;
+    font-size: 0.4rem;
+    text-align: center;
+    line-height: 0.8rem;
+}
+.da .bu .b .b2 .c2{
+    width: 2.6rem;
+    height: 100%;
+    background-color: #ffff00;
+    margin-left: 0.4rem;
+    border-radius:10%;
+    font-size: 0.4rem;
+    text-align: center;
+    line-height: 0.8rem;
+}
+

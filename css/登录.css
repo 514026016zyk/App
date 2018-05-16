@@ -1,0 +1,152 @@
+.top{
+    width: 100%;
+    height: 6.52rem;
+    background-color: #e53935;
+    margin-top: 0.4rem;
+}
+.top img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.zhong{
+    width: 100%;
+    height: 4.34rem;
+    /*background-color: #83c44e;*/
+}
+.zhong .h{
+    width: 4.86rem;
+    height: 2rem;
+    background-color: #fff100;
+    margin: 0 auto;
+    border-radius: 13%;
+}
+.zhong .h1{
+    width: 6.08rem;
+    height: 3.76rem;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: -1.75rem;
+    border-radius: 8%;
+    box-shadow: 0 0 0.2rem 0.01rem #5f5750;
+}
+.zhong .h1 .y1{
+    width: 0.86rem;
+    height: 0.42rem;
+    /*background-color: #fff100;*/
+    margin: 0 auto;
+    display: flex;
+
+}
+
+.zhong .h1 .y1 .q1{
+    width: 0.25rem;
+    height: 0.25rem;
+    border-radius: 50%;
+    background-color: #ff8787;
+    margin-top: 0.1rem;
+    margin-left: 0.1rem;
+}
+.zhong .h1 .y1 .q2{
+    width: 0.25rem;
+    height: 0.25rem;
+    border-radius: 50%;
+    background-color: #dcdcdc;
+    margin-left: 0.15rem;
+    margin-top: 0.1rem;
+
+}
+.zhong .h1 .y2{
+    width: 100%;
+    height: 0.66rem;
+    /*background-color: #007dff;*/
+    margin-top: 0.2rem;
+    padding: 0 0.5rem;
+    box-sizing: border-box;
+    display: flex;
+}
+.zhong .h1 .y2 .ee{
+    width: 0.2rem;
+    height: 0.1rem;
+    background-color: #ff6700;
+    margin:auto 0;
+
+}
+.zhong .h1 .y2 input{
+    width: 100%;
+    height:0.58rem;
+    margin-left: 0.1rem;
+    background-image: url("../img/手机.png");
+    background-repeat: no-repeat;
+    background-position:4.2rem;
+    border-style:none;
+}
+.zhong .h1 .y3{
+    width: 100%;
+    height: 0.66rem;
+    /*background-color: #007dff;*/
+    margin-top: 0.2rem;
+    padding: 0 0.5rem;
+    box-sizing: border-box;
+    display: flex;
+}
+.zhong .h1 .y3 .ee{
+    width: 0.2rem;
+    height: 0.1rem;
+    background-color: #ff6700;
+    margin:auto 0;
+
+}
+.zhong .h1 .y3 input{
+    width: 100%;
+    height:0.58rem;
+    margin-left: 0.1rem;
+    background-image: url("../img/锁.png");
+    background-repeat: no-repeat;
+    background-position:4.15rem;
+    /*background-size: 1.56rem 0.36rem;*/
+    border-style:none;
+}
+.zhong .h1 .y4{
+    width: 100%;
+    height: 0.66rem;
+    /*background-color: #007dff;*/
+    margin-top: 0.2rem;
+    padding: 0 0.5rem;
+    box-sizing: border-box;
+    display: flex;
+}
+.zhong .h1 .y4 img{
+    display: block;
+    width: 1.4rem;
+    height: 0.46rem;
+
+}
+.zhong .h2{
+    width: 2.4rem;
+    height: 0.6rem;
+    background-color: #eeeeee;
+    margin: 0 auto;
+    margin-top: -0.3rem;
+    border-radius: 20%;
+    display: flex;
+}
+.zhong .h2 img{
+    display: block;
+    width: 0.54rem;
+    height: 0.35rem;
+    margin: 0 auto;
+    margin-top: 0.1rem;
+
+
+}
+.bottom{
+    width: 100%;
+    height: 2.04rem;
+    /*background-color: #007dff;*/
+}
+.bottom img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}

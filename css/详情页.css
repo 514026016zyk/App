@@ -1,0 +1,279 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.top{
+    width: 100%;
+    height: 5.32rem;
+    /*background-color: #ff6700;*/
+    margin-top: 0.4rem;
+}
+.top .shang{
+    width: 100%;
+    height: 0.88rem;
+    /*background-color: #fff100;*/
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content:space-between;
+}
+.top .shang .zuo{
+    width: 0.8rem;
+    height: 100%;
+    /*background-color: #007dff;*/
+    display: flex;
+    justify-content: center;
+}
+.top .shang .zuo i{
+    font-size: 0.6rem;
+    line-height: 0.88rem;
+    float: left;
+
+
+}
+.top .shang .you{
+    width:0.8rem ;
+    height: 100%;
+    /*background-color: yellow;*/
+    display: flex;
+    justify-content: center;
+}
+.top .shang .you i{
+    font-size: 0.6rem;
+    line-height: 0.88rem;
+}
+.top .xia{
+    width: 100%;
+    height: 4.44rem;
+    background-color: #83c44e;
+}
+.top .xia img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.zhong{
+    width: 100%;
+    height: 2.2rem;
+    /*background-color: #e53935;*/
+    margin-top: 0.66rem;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction:column;
+
+}
+.zhong b{
+    font-size: 0.34rem;
+
+}
+.zhong span{
+    font-size: 0.24rem;
+    margin-top: 0.2rem;
+}
+.zhong .yu{
+    width: 100%;
+    height: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.zhong .yu b{
+    font-size: 0.4rem;
+    line-height: 1rem;
+    color: red;
+}
+.zhong .yu .u{
+    width: 2.68rem;
+    height: 0.65rem;
+    background-color: #fff100;
+    border-radius: 0.3rem;
+    display: flex;
+    padding: 0 0.3rem;
+    box-sizing: border-box;
+}
+.zhong .yu .u i{
+    font-size: 0.3rem;
+    line-height: 0.65rem;
+    margin-right: 0.1rem;
+}
+.zhong .yu .u a{
+    font-size: 0.3rem;
+    line-height: 0.65rem;
+}
+.qwe{
+    width: 100%;
+    height: 0.12rem;
+    background-color: #eeeeee;
+}
+.zz{
+    width: 100%;
+    height: 1.96rem;
+    /*background-color: #83c44e;*/
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction:column;
+}
+.zz span{
+    font-size: 0.34rem;
+    margin-top: 0.2rem;
+}
+.zz p{
+    font-size: 0.28rem;
+    margin-top: 0.4rem;
+}
+.asd{
+    width: 100%;
+    height: 0.2rem;
+    background-color: #eeeeee;
+}
+.po{
+    width: 100%;
+    height: 0.94rem;
+    /*background-color: #4e95d7;*/
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content:space-between;
+}
+.po .p{
+    width: 2.4rem;
+    height: 0.94rem;
+    /*background-color: #83c44e;*/
+    display: flex;
+}
+.po .p span{
+    font-size: 0.3rem;
+    line-height: 0.94rem;
+}
+.po .p p{
+    font-size: 0.18rem;
+    line-height: 0.94rem;
+    color: red;
+}
+.po .o{
+    width:1.45rem;
+    height: 0.94rem;
+    /*background-color: #83c44e;*/
+    display: flex;
+}
+.po .o span{
+    font-size: 0.3rem;
+    line-height: 0.94rem;
+}
+.po .o i{
+    font-size: 0.3rem;
+    line-height: 0.94rem;
+
+}
+.zxc{
+    width: 100%;
+    height: 0.2rem;
+    background-color: #eeeeee;
+}
+.pingjia{
+    width: 100%;
+    height: 1.74rem;
+    /*background-color: #ff6700;*/
+    display: flex;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+}
+.pingjia img{
+    display: block;
+    width: 0.78rem;
+    height: 0.78rem;
+    margin-top: 0.3rem;
+
+}
+.pingjia .jia{
+    width: 6.2rem;
+    height: 100%;
+    /*background-color: #4e95d7;*/
+}
+.pingjia .jia .j{
+    width: 100%;
+    height: 0.58rem;
+    /*background-color: #e53935;*/
+    display: flex;
+    justify-content: space-between;
+}
+.pingjia .jia .j b{
+    font-size: 0.24rem;
+    line-height: 0.58rem;
+
+}
+.pingjia .jia .j span{
+    font-size: 0.24rem;
+    line-height: 0.58rem;
+}
+.pingjia .jia .i{
+    width: 100%;
+    height: 0.58rem;
+    /*background-color: #83c44e;*/
+    display: flex;
+}
+.pingjia .jia .i img{
+    display: block;
+    width: 0.34rem;
+    height: 0.34rem;
+    margin-top: 0.1rem;
+}
+.pingjia .jia .i span{
+    font-size: 0.22rem;
+    line-height: 0.58rem;
+}
+.pingjia .jia .a{
+    width: 100%;
+    height: 0.58rem;
+    /*background-color: blueviolet;*/
+    display: flex;
+}
+.pingjia .jia .a span{
+    font-size: 0.26rem;
+    line-height: 0.58rem;
+}
+.di{
+    width: 100%;
+    height: 1rem;
+    background-color: #373737;
+    margin-top: 0.5rem;
+    position:fixed;
+    bottom: 0;
+
+}
+.di .he{
+    font-size: 0.4rem;
+    width: 1.67rem;
+    height: 1rem;
+    background-color: #fff100;
+    float: right;
+    margin-top: -0.83rem;
+    text-align: center;
+    line-height: 1rem;
+}
+.di span{
+    font-size: 0.4rem;
+    display: block;
+    margin-top: 0.3rem;
+    margin-left: 1.8rem;
+    color: #ffffff;
+}
+.ooop{
+    position: relative;
+}
+.ooop img{
+    width: 1rem;
+    height: 0.96rem;
+    position: absolute;
+    margin-top: -1.3rem;
+    margin-left: 0.7rem;
+
+}
+.kokoko{
+    width: 100%;
+    height: 1.5rem;
+    background-color: #ffffff;
+}

@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.top{
+    width: 100%;
+    height: 3.7rem;
+    /*background-color: #83c44e;*/
+    margin-top: 0.4rem;
+
+}
+.top .shang{
+    width: 100%;
+    height: 2.96rem;
+
+    /*background-color: #fff100;*/
+
+}
+.top .shang .ss{
+    width: 100%;
+    height: 0.88rem;
+    /*background-color: #eeeeee;*/
+    display: flex;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    /*display: flex;*/
+
+}
+.top .shang .ss i{
+    width: 0.5rem;
+    height: 0.88rem;
+    line-height: 0.88rem;
+    font-size: 0.35rem;
+    float: left;
+}
+.top .shang .ss span{
+    font-size: 0.35rem;
+    line-height: 0.88rem;
+    float: left;
+}
+.top .shang .xx{
+    width: 100%;
+    height: 2.08rem;
+    /*background-color: #ff6700;*/
+    padding: 0 0.3rem;
+    box-sizing: border-box;
+
+}
+.top .shang .xx  .x{
+    width: 100%;
+    height: 2.8rem;
+    background-color: #fff100;
+}
+.top .shang .xx .x span{
+    display: flex;
+    font-size: 0.35rem;
+    justify-content: center;
+    width: 100%;
+    height: 1rem;
+    line-height: 1rem;
+}
+.top .shang .xx .x p{
+    font-size: 0.3rem;
+    height: 0.4rem;
+    line-height: 0.4rem;
+    display: flex;
+    justify-content: center;
+}
+.top .shang .xx .x .ert{
+    width: 100%;
+    height: 0.05rem;
+    background-color: #acacac;
+    margin-top: 0.4rem;
+}
+.top .shang .xx .x .io{
+    width: 100%;
+    height: 0.95rem;
+    /*background-color: #41b9d0;*/
+    display: flex;
+}
+.top .shang .xx .x .io b{
+    display: flex;
+    font-size: 0.4rem;
+    line-height: 1rem;
+
+
+}
+.top .shang .xx .x .io .a{
+    width: 3rem;
+    font-size: 0.25rem;
+    color: red;
+}
+.bottom{
+    width: 100%;
+    height: 7.6rem;
+    /*background-color: #007dff;*/
+    margin-top: 0.2rem;
+    padding: 0 0.3rem;
+    box-sizing: border-box;
+}
+.bottom .zzz{
+    width: 100%;
+    height: 1.36rem;
+    background-color: #eeeeee;
+    display: flex;
+}
+.bottom .zzz img{
+    display: block;
+    width: 0.8rem;
+    height: 0.8rem;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+
+}
+.bottom .zzz span{
+    font-size: 0.3rem;
+    height: 0.8rem;
+    line-height: 1.3rem;
+
+}
+.bottom .zzz .iiii{
+    width: 1rem;
+    height: 0.4rem;
+    /*background-color: #83c44e;*/
+    margin-top: 0.4rem;
+    margin-left: 1.2rem;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    display: flex;
+    font-size: 0.24rem;
+}
+.bottom .xxx{
+    width: 100%;
+    height: 1.6rem;
+    /*background-color: #e53935;*/
+    padding: 0.15rem 0;
+    box-sizing: border-box;
+    display: flex;
+
+
+}
+.bottom .xxx .v{
+    display: block;
+    width: 1.34rem;
+    height: 1.34rem;
+    margin-left: 0.3rem;
+}
+.bottom .xxx .bcdf{
+    /*background-color: #333333;*/
+    flex-grow:1;
+
+
+}
+.bottom .xxx .bcdf .b{
+    font-size: 0.24rem;
+    height: 0.5rem;
+    margin-left: 0.2rem;
+    /*margin-top: 2rem;*/
+    display: flex;
+
+}
+.bottom .xxx .bcdf .c{
+    font-size: 0.24rem;
+    height: 0.5rem;
+    margin-left: 0.2rem;
+    display: flex;
+}
+.bottom .xxx .bcdf .d{
+    font-size: 0.20rem;
+    height: 0.5rem;
+    margin-left: 0.2rem;
+    display: flex;
+    justify-content:space-between;
+}
+.bottom .xxx .bcdf .f{
+    font-size: 0.3rem;
+    color: red;
+}
+.bottom .ccc img{
+    display: block;
+    width:100%;
+    height: 100%;
+}
+.di{
+    width: 100%;
+    height: 1rem;
+    background-color: #373737;
+    margin-top: 0.5rem;
+    position:fixed;
+    bottom: 0;
+    margin-left: -0.3rem;
+
+}
+.di .he{
+    font-size: 0.4rem;
+    width: 1.67rem;
+    height: 1rem;
+    background-color: #fff100;
+    float: right;
+    margin-top: -0.83rem;
+    text-align: center;
+    line-height: 1rem;
+}
+.di span{
+    font-size: 0.4rem;
+    display: block;
+    margin-top: 0.3rem;
+    margin-left: 1.8rem;
+    color: #ffffff;
+}
+.ooop{
+    position: relative;
+}
+.ooop img{
+    width: 1rem;
+    height: 0.96rem;
+    position: absolute;
+    margin-top: -1.3rem;
+    margin-left: 0.7rem;
+
+}
+

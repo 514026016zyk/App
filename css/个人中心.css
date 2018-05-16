@@ -1,0 +1,232 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.top{
+    width: 100%;
+    height: 2.72rem;
+    background-color: #f7d53e;
+    margin-top: 0.4rem;
+
+}
+.top .t{
+    width: 100%;
+    height: 0.88rem;
+    background-color: #f7d53e;
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
+.top .t .t1 {
+    /*background-color: #e53935;*/
+    /*flex-grow: 1;*/
+    display: flex;
+}
+.top .t .t1 i{
+    font-size: 0.6rem;
+    line-height: 0.88rem;
+    color: #ffffff;
+}
+.top .t .t2{
+    /*background-color: #41b9d0;*/
+    flex-grow: 6;
+}
+.top .t .t2 .tt2a{
+    width: 100%;
+    height: 0.44rem;
+    /*background-color: #ff6700;*/
+    display: flex;
+}
+.top .t .t2 .tt2a span{
+    font-size: 0.35rem;
+    margin: 0 auto;
+    /*text-align: center;*/
+    color: #ffffff;
+}
+.top .t .t2 .tt2b{
+    width: 100%;
+    height: 0.44rem;
+    /*background-color: #fff100;*/
+}
+.top .t .t2 .tt2b p{
+    font-size: 0.35rem;
+    text-align: center;
+    color: #ffffff;
+    /*margin: 0 auto;*/
+}
+.top .t .t3{
+    /*flex-grow: 1;*/
+    /*background-color: #83c44e;*/
+    display: flex;
+}
+.top .t .t3 i{
+    font-size: 0.6rem;
+    line-height: 0.88rem;
+    color: #ffffff;
+}
+.top .o{
+    width: 100%;
+    height: 1.84rem;
+    /*background-color: #83c44e;*/
+    padding: 0 0.24rem;
+    box-sizing: border-box;
+    display: flex;
+}
+.top .o .tu{
+    width: 1.4rem;
+    height: 1.4rem;
+    background-color: #acacac;
+    margin-top: 0.2rem;
+    background-image: url("../img/910.png");
+    background-size: 100%;
+
+}
+.top .o .zi{
+    flex-grow:1;
+    /*background-color: #ff6700;*/
+}
+.top .o .zi .zi1{
+    width: 100%;
+    height: 0.5rem;
+    /*background-color: #e53935;*/
+    margin-top: 0.3rem;
+    font-size: 0.28rem;
+    line-height: 0.5rem;
+    color: #ffffff;
+}
+.top .o .zi .zi2{
+    height: 0.5rem;
+    /*background-color: #41b9d0;*/
+    display: flex;
+
+}
+.top .o .zi .zi2 img{
+    display: block;
+    width: 0.3rem;
+    height: 0.36rem;
+    margin-top: 0.05rem;
+
+}
+.top .o .zi .zi2 span{
+    font-size: 0.28rem;
+    margin-top: 0.05rem;
+    color: #ffffff;
+}
+.top .o .zi i{
+    font-size: 0.5rem;
+    margin-left: 3.2rem;
+    margin-top: -0.2rem;
+    color: #ffffff;
+}
+.zs{
+    width: 100%;
+    height:1.42rem;
+    /*background-color: #41b9d0;*/
+    display: flex;
+    border-bottom: 1px solid #acacac;
+    box-sizing: border-box;
+}
+.zs .z1{
+    flex-grow:1;
+    /*background-color: #e53935;*/
+    border-right: 1px solid #acacac;
+
+}
+.zs .z1 span{
+    display: block;
+    font-size: 0.34rem;
+    margin-top:0.3rem;
+    text-align: center;
+    color: red;
+}
+.zs .z1 p{
+    font-size: 0.28rem;
+    text-align: center;
+}
+.zs .z2{
+    flex-grow:1;
+    /*background-color: #ff6700;*/
+    border-right: 1px solid #acacac;
+}
+.zs .z2 span {
+    display: block;
+    font-size: 0.34rem;
+    margin-top: 0.3rem;
+    text-align: center;
+}
+.zs .z2 p {
+    font-size: 0.28rem;
+    text-align: center;
+}
+.zs .z3{
+    flex-grow:1;
+    /*background-color: #83c44e;*/
+}
+.zs .z3 span {
+    display: block;
+    font-size: 0.34rem;
+    margin-top: 0.3rem;
+    text-align: center;
+
+}
+.zs .z3 p {
+    font-size: 0.28rem;
+    text-align: center;
+}
+.zz{
+    width: 100%;
+    height: 7.82rem;
+    background-color: #ff6700;
+}
+.zz img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.di{
+    width: 100%;
+    height: 0.96rem;
+    background: #e9c93c;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content:space-between;
+    padding-left:0.24rem;
+    padding-right: 0.24rem;
+    box-sizing: border-box;
+
+}
+.di .aa{
+    width:0.96rem;
+    height: 0.96rem;
+    /*background: #e53935;*/
+}
+.di .aa img{
+    display:block;
+    width: 0.46rem;
+    height: 0.46rem;
+    margin:0.2rem auto 0;
+
+}
+.di .aa1 img{
+    display: block;
+    width: 0.46rem;
+    height: 0.46rem;
+    margin: 0.2rem auto 0;
+}
+.di .aa1 a{
+    width: 0.96rem;
+    height: 0.96rem;
+    display: block;
+}
+.di .aa h5{
+    font-size: 0.24rem;
+    margin-left:0.23rem;
+}
+.di .aa4 h5{
+    font-size: 0.24rem;
+    margin-left: 0rem;
+}
+
